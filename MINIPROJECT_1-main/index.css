@@ -1,0 +1,8 @@
+/* Academic Architectural Monochrome — 100% Sharp Corners */
+*, *::before, *::after {
+  border-radius: 0 !important;
+}
+
+button, input, select, textarea, div, span, img, svg {
+  border-radius: 0 !important;
+}

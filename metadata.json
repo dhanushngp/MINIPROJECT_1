@@ -1,0 +1,5 @@
+{
+  "name": "Ai Descriptive Answer Evaluator",
+  "description": "An application that uses AI to analyze uploaded handwritten notes (PDF or JPEG), identifies questions and answers, evaluates the answers, and provides a score out of 10.",
+  "requestFramePermissions": []
+}
